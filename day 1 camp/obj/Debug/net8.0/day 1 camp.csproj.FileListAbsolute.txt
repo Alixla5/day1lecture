@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\bin\Debug\net8.0\day 1 camp.exe
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\bin\Debug\net8.0\day 1 camp.deps.json
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\bin\Debug\net8.0\day 1 camp.runtimeconfig.json
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\bin\Debug\net8.0\day 1 camp.dll
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\bin\Debug\net8.0\day 1 camp.pdb
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.AssemblyInfo.cs
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.dll
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\refint\day 1 camp.dll
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.pdb
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\day 1 camp.genruntimeconfig.cache
+C:\Users\Ali\source\repos\day 1 camp\day 1 camp\obj\Debug\net8.0\ref\day 1 camp.dll
