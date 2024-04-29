@@ -53,3 +53,5 @@ y /= 4;
 Console.WriteLine(y);
 y %= 1;
 Console.WriteLine(y);
+
+string name = "Ali";
